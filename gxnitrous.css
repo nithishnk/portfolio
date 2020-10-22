@@ -1,0 +1,1125 @@
+.mediaViewInfo {
+	--web-view-name: gxnitrous;
+	--web-view-id: gxnitrous;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: gxnitrous;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#gxnitrous {
+	position: absolute;
+	width: 1920px;
+	height: 8778px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: gxnitrous;
+	--web-view-id: gxnitrous;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Path_11 {
+	opacity: 0.5;
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_11 {
+	overflow: visible;
+	position: absolute;
+	width: 1640px;
+	height: 8518.562px;
+	left: 140px;
+	top: 127px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Nithish_Nayak {
+	left: 753px;
+	top: 174px;
+	position: absolute;
+	overflow: visible;
+	width: 415px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#_Designing_is_my_passion_where {
+	left: 409px;
+	top: 283px;
+	position: absolute;
+	overflow: visible;
+	width: 1103px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(153,153,153,1);
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 500.002px;
+	height: 2px;
+	left: 254.5px;
+	top: 410.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#PROJECTS {
+	left: 841px;
+	top: 401px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#ABOUT {
+	left: 1026px;
+	top: 401px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: About.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(153,153,153,1);
+}
+#Line_3 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 88px;
+	height: 1px;
+	left: 841.5px;
+	top: 423.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 500.002px;
+	height: 2px;
+	left: 1166.5px;
+	top: 409.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mobile_POS {
+	left: 830px;
+	top: 483px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Title {
+	left: 255px;
+	top: 592px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Introuction {
+	left: 255px;
+	top: 701px;
+	position: absolute;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#GX_Nitrous_-_Mobile_Applicatio {
+	left: 255px;
+	top: 643px;
+	position: absolute;
+	overflow: visible;
+	width: 345px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Mr_Shorupan_pirakaspathy_offer {
+	left: 255px;
+	top: 752px;
+	position: absolute;
+	overflow: visible;
+	width: 1413px;
+	height: 128px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Crypto_industry_is_really_a_bi {
+	left: 259px;
+	top: 1182px;
+	position: absolute;
+	overflow: visible;
+	width: 1413px;
+	height: 94px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Every_good_project_starts_with {
+	left: 259px;
+	top: 1357px;
+	position: absolute;
+	overflow: hidden;
+	width: 1413px;
+	height: 48px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#This_project_was_starting_impl {
+	left: 255px;
+	top: 3623px;
+	position: absolute;
+	overflow: visible;
+	width: 1413px;
+	height: 79px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#I_reviewed_the_entire_screens_ {
+	left: 254px;
+	top: 3702px;
+	position: absolute;
+	overflow: visible;
+	width: 1413px;
+	height: 79px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#I_choose_dark_blue_color_for_t {
+	left: 254px;
+	top: 3856px;
+	position: absolute;
+	overflow: visible;
+	width: 1413px;
+	height: 90px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#I_used_Rubik_font_family_and_i {
+	left: 266px;
+	top: 4438px;
+	position: absolute;
+	overflow: visible;
+	width: 1413px;
+	height: 73px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Icons_are_an_important_part_of {
+	left: 254px;
+	top: 5321px;
+	position: absolute;
+	overflow: visible;
+	width: 1413px;
+	height: 89px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Sketch_was_my_imagination_befo {
+	left: 255px;
+	top: 2229px;
+	position: absolute;
+	overflow: visible;
+	width: 1413px;
+	height: 42px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#My_Role {
+	left: 255px;
+	top: 938px;
+	position: absolute;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Challenges {
+	left: 255px;
+	top: 1131px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Design_Process {
+	left: 255px;
+	top: 1306px;
+	position: absolute;
+	overflow: visible;
+	width: 210px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Research_and_Sketch_to_get_sta {
+	left: 259px;
+	top: 1637px;
+	position: absolute;
+	overflow: visible;
+	width: 478px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#ID1_Handled_all_UXUI_design__2 {
+	left: 255px;
+	top: 989px;
+	position: absolute;
+	overflow: visible;
+	width: 1024px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Path_1 {
+	fill: rgba(255,255,255,1);
+}
+.Path_1 {
+	mix-blend-mode: hard-light;
+	filter: drop-shadow(3px 8px 30px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 301.204px;
+	height: 183px;
+	left: 256px;
+	top: 1439px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2 {
+	fill: rgba(255,255,255,1);
+}
+.Path_2 {
+	mix-blend-mode: hard-light;
+	filter: drop-shadow(3px 8px 30px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 301.204px;
+	height: 183px;
+	left: 555.074px;
+	top: 1440px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_3 {
+	fill: rgba(255,255,255,1);
+}
+.Path_3 {
+	mix-blend-mode: hard-light;
+	filter: drop-shadow(3px 8px 30px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 301.204px;
+	height: 183px;
+	left: 1153.222px;
+	top: 1435px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_5 {
+	fill: rgba(255,255,255,1);
+}
+.Path_5 {
+	mix-blend-mode: hard-light;
+	filter: drop-shadow(3px 8px 30px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 301.204px;
+	height: 183px;
+	left: 854.148px;
+	top: 1435px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_4 {
+	fill: rgba(255,255,255,1);
+}
+.Path_4 {
+	mix-blend-mode: hard-light;
+	filter: drop-shadow(3px 8px 30px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 301.204px;
+	height: 183px;
+	left: 1452.296px;
+	top: 1435px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Research {
+	left: 310px;
+	top: 1472px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Sketches {
+	left: 607px;
+	top: 1473px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Finding_UX__issues {
+	left: 1196px;
+	top: 1454px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Wireframes {
+	left: 908px;
+	top: 1468px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Design {
+	left: 1506px;
+	top: 1468px;
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Path_6 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(153,153,153,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_6 {
+	overflow: visible;
+	position: absolute;
+	width: 253.079px;
+	height: 35.687px;
+	left: 356.5px;
+	top: 1572.539px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_7 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(153,153,153,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_7 {
+	overflow: visible;
+	position: absolute;
+	width: 253.057px;
+	height: 33.689px;
+	left: 680.5px;
+	top: 1574.539px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_8 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(153,153,153,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_8 {
+	overflow: visible;
+	position: absolute;
+	width: 253.057px;
+	height: 33.689px;
+	left: 1002.5px;
+	top: 1584.539px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_9 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(153,153,153,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_9 {
+	overflow: visible;
+	position: absolute;
+	width: 253.057px;
+	height: 33.689px;
+	left: 1312.5px;
+	top: 1584.539px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polygon_1 {
+	fill: rgba(153,153,153,1);
+}
+.Polygon_1 {
+	overflow: visible;
+	position: absolute;
+	width: 27px;
+	height: 24px;
+	transform: matrix(1,0,0,1,605,1554) rotate(51deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_2 {
+	fill: rgba(153,153,153,1);
+}
+.Polygon_2 {
+	overflow: visible;
+	position: absolute;
+	width: 27px;
+	height: 24px;
+	transform: matrix(1,0,0,1,929,1556) rotate(51deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_3 {
+	fill: rgba(153,153,153,1);
+}
+.Polygon_3 {
+	overflow: visible;
+	position: absolute;
+	width: 27px;
+	height: 24px;
+	transform: matrix(1,0,0,1,1250.9999,1566) rotate(51deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_4 {
+	fill: rgba(153,153,153,1);
+}
+.Polygon_4 {
+	overflow: visible;
+	position: absolute;
+	width: 27px;
+	height: 24px;
+	transform: matrix(1,0,0,1,1560.9999,1566) rotate(51deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#I_prepared_myself_and_started_ {
+	left: 255px;
+	top: 1703px;
+	position: absolute;
+	overflow: visible;
+	width: 640px;
+	height: 305px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#IMG_20201012_145735 {
+	position: absolute;
+	width: 651px;
+	height: 488px;
+	left: 1002px;
+	top: 1698px;
+	overflow: visible;
+}
+#IMG_20201012_195839_3 {
+	position: absolute;
+	width: 678px;
+	height: 630px;
+	left: 259px;
+	top: 2301px;
+	overflow: visible;
+}
+#IMG_20201012_195929_1 {
+	position: absolute;
+	width: 678px;
+	height: 630px;
+	left: 255px;
+	top: 2963px;
+	overflow: visible;
+}
+#IMG_20201012_195859 {
+	position: absolute;
+	width: 651px;
+	height: 630px;
+	left: 1003px;
+	top: 2301px;
+	overflow: visible;
+}
+#IMG_20201012_195942 {
+	position: absolute;
+	width: 651px;
+	height: 630px;
+	left: 999px;
+	top: 2963px;
+	overflow: visible;
+}
+#Color_Palette {
+	left: 255px;
+	top: 3811px;
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Typography {
+	left: 259px;
+	top: 4387px;
+	position: absolute;
+	overflow: visible;
+	width: 159px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Icons_Pack {
+	left: 254px;
+	top: 5270px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Mobile_Application_Designs {
+	left: 254px;
+	top: 5440px;
+	position: absolute;
+	overflow: visible;
+	width: 363px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_5 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 254px;
+	height: 352px;
+	left: 259px;
+	top: 3999px;
+}
+#Rectangle_8 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 254px;
+	height: 352px;
+	left: 835px;
+	top: 3999px;
+}
+#Rectangle_10 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 254px;
+	height: 352px;
+	left: 1411px;
+	top: 3999px;
+}
+#Rectangle_6 {
+	fill: rgba(25,106,180,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 203px;
+	height: 195px;
+	left: 284px;
+	top: 4026px;
+}
+#Rectangle_7 {
+	fill: rgba(55,227,159,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 203px;
+	height: 195px;
+	left: 860px;
+	top: 4026px;
+}
+#Path_10 {
+	fill: rgba(68,69,85,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_10 {
+	overflow: visible;
+	position: absolute;
+	width: 203px;
+	height: 195px;
+	left: 1436.191px;
+	top: 4026px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Blue {
+	left: 359px;
+	top: 4251px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Green {
+	left: 926px;
+	top: 4251px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Dark_Grey {
+	left: 1479px;
+	top: 4251px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#ID196AB4 {
+	left: 335px;
+	top: 4294px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#ID37E39F {
+	left: 912px;
+	top: 4294px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#ID444555 {
+	left: 1486px;
+	top: 4294px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Image_1 {
+	position: absolute;
+	width: 1412px;
+	height: 714px;
+	left: 254px;
+	top: 4526px;
+	overflow: visible;
+}
+#On_Boarding_home {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	left: 759px;
+	top: 5506px;
+	overflow: visible;
+}
+#On_Boarding {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	left: 1291px;
+	top: 5506px;
+	overflow: visible;
+}
+#Dashboard {
+	position: absolute;
+	width: 375px;
+	height: 1102px;
+	left: 255px;
+	top: 6399px;
+	overflow: visible;
+}
+#Detail_Screen1 {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	left: 759px;
+	top: 6399px;
+	overflow: visible;
+}
+#Buy_Bit_Coins {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	left: 1291px;
+	top: 6399px;
+	overflow: visible;
+}
+#Password {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	left: 254px;
+	top: 5506px;
+	overflow: visible;
+}
+#Transaction {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	left: 255px;
+	top: 7531px;
+	overflow: visible;
+}
+#Transaction_History {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	left: 773px;
+	top: 7531px;
+	overflow: visible;
+}
+#Receive_Bit_Coins {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	left: 1291px;
+	top: 7501px;
+	overflow: visible;
+}
+#Copyright__2020_Nithish_Nayak {
+	left: 771px;
+	top: 8697px;
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	height: 48px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(112,112,112,1);
+}
+#Rectangle_11 {
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 528px;
+	height: 99px;
+	left: 696px;
+	top: 8447px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#Back_To_Project {
+	left: 826px;
+	top: 8479px;
+	position: absolute;
+	overflow: visible;
+	width: 270px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(249,245,245,1);
+	text-transform: uppercase;
+}
+*{
+	    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    overflow-x: hidden;
+}

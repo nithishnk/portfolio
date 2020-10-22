@@ -1,0 +1,239 @@
+
+
+.mediaViewInfo {
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: index;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#index {
+	position: absolute;
+	width: 1920px;
+	height: 1496px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_1 {
+	opacity: 0.5;
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1640px;
+	height: 1244px;
+	left: 140px;
+	top: 127px;
+}
+#Cover {
+	position: absolute;
+	width: 571px;
+	height: 382px;
+	left: 1090px;
+	top: 895px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: gxnitrous.html;
+	cursor: pointer;
+}
+#macbook-pro-space-gray-mockup- {
+	position: absolute;
+	width: 583px;
+	height: 382px;
+	left: 1084px;
+	top: 468px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: accountingtool.html;
+	cursor: pointer;
+}
+#Component_1__1 {
+	position: absolute;
+	width: 1412px;
+	height: 249.5px;
+	left: 254.5px;
+	top: 174px;
+	overflow: hidden;
+}
+#Nithish_Nayak {
+	left: 498.5px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 415px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#_Designing_is_my_passion_where {
+	left: 154.5px;
+	top: 109px;
+	position: absolute;
+	overflow: visible;
+	width: 1103px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(153,153,153,1);
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 500.002px;
+	height: 2px;
+	left: 0px;
+	top: 236.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#PROJECTS {
+	left: 586.5px;
+	top: 227px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#ABOUT {
+	left: 771.5px;
+	top: 227px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: About.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(153,153,153,1);
+}
+#Line_3 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 88px;
+	height: 1px;
+	left: 587px;
+	top: 249.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 500.002px;
+	height: 2px;
+	left: 912px;
+	top: 235.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Copyright__2020_Nithish_Nayak {
+	left: 794px;
+	top: 1404px;
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	height: 48px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(112,112,112,1);
+}
+#ID01_reports_mockup03 {
+	position: absolute;
+	width: 753px;
+	height: 809px;
+	left: 254px;
+	top: 468px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: carson.html;
+	cursor: pointer;
+}
+*{
+	    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    overflow-x: hidden;
+}

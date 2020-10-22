@@ -1,0 +1,543 @@
+.mediaViewInfo {
+	--web-view-name: About;
+	--web-view-id: About;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: About;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#About {
+	position: absolute;
+	width: 1920px;
+	height: 2500px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: About;
+	--web-view-id: About;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_1 {
+	opacity: 0.5;
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1640px;
+	height: 2260px;
+	left: 140px;
+	top: 127px;
+}
+#Nithish_Nayak {
+	left: 753px;
+	top: 174px;
+	position: absolute;
+	overflow: visible;
+	width: 415px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#_Designing_is_my_passion_where {
+	left: 409px;
+	top: 283px;
+	position: absolute;
+	overflow: visible;
+	width: 1103px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(153,153,153,1);
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 500.002px;
+	height: 2px;
+	left: 254.5px;
+	top: 410.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#PROJECTS {
+	left: 841px;
+	top: 401px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(153,153,153,1);
+}
+#ABOUT {
+	left: 1026px;
+	top: 401px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#Line_3 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 88px;
+	height: 1px;
+	left: 1011.5px;
+	top: 423.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 500.002px;
+	height: 2px;
+	left: 1166.5px;
+	top: 409.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#WORK_EXPERIENCES {
+	left: 255px;
+	top: 467px;
+	position: absolute;
+	overflow: visible;
+	width: 479px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Recommendations {
+	left: 253px;
+	top: 1055px;
+	position: absolute;
+	overflow: visible;
+	width: 481px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+	text-transform: uppercase;
+}
+#Education_Experiences {
+	left: 253px;
+	top: 1358px;
+	position: absolute;
+	overflow: visible;
+	width: 617px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+	text-transform: uppercase;
+}
+#Nvest_Global_Enterprises_Inc {
+	left: 255px;
+	top: 557px;
+	position: absolute;
+	overflow: visible;
+	width: 387px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Master_of_Computer_Application {
+	left: 257px;
+	top: 1448px;
+	position: absolute;
+	overflow: visible;
+	width: 953px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Bachelor_of_Computer_Applicati {
+	left: 257px;
+	top: 1600px;
+	position: absolute;
+	overflow: visible;
+	width: 759px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Pre_University_College_-_Karna {
+	left: 255px;
+	top: 1752px;
+	position: absolute;
+	overflow: visible;
+	width: 549px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Secondary_Level_School_Certifi {
+	left: 253px;
+	top: 1904px;
+	position: absolute;
+	overflow: visible;
+	width: 721px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#UIUX_Designer_ {
+	left: 255px;
+	top: 608px;
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#January_2019-_Present_Bangalor {
+	left: 255px;
+	top: 651px;
+	position: absolute;
+	overflow: visible;
+	width: 381px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#The_role_is_responsible_for_UI {
+	left: 255px;
+	top: 694px;
+	position: absolute;
+	overflow: visible;
+	width: 1346px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Achievements__Create_wireframe {
+	left: 255px;
+	top: 849px;
+	position: absolute;
+	overflow: visible;
+	width: 743px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#UIUX_Designer_ {
+	left: 255px;
+	top: 608px;
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#-Shorupan_Pirakaspathy_CEO-Nve {
+	left: 253px;
+	top: 1300px;
+	position: absolute;
+	overflow: visible;
+	width: 743px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#I_worked_with_Nithish_for_19_y {
+	left: 253px;
+	top: 1130px;
+	position: absolute;
+	overflow: visible;
+	width: 1415px;
+	height: 155px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#CMR_Institute_Of_Technology_Ba {
+	left: 255px;
+	top: 1499px;
+	position: absolute;
+	overflow: visible;
+	width: 439px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#MGM_College_Udupi {
+	left: 259px;
+	top: 1651px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#MGM_College_Udupi_ {
+	left: 257px;
+	top: 1803px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#GPUC_Hiriadka_Udupi {
+	left: 257px;
+	top: 1955px;
+	position: absolute;
+	overflow: visible;
+	width: 239px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#ID2016-2019 {
+	left: 257px;
+	top: 1542px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#ID2013-2016 {
+	left: 259px;
+	top: 1694px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#ID2011-2013 {
+	left: 261px;
+	top: 1846px;
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#ID2012 {
+	left: 264px;
+	top: 1998px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Rectangle_11 {
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 528px;
+	height: 99px;
+	left: 696px;
+	top: 2086px;
+}
+#Download_Resume {
+	left: 812px;
+	top: 2118px;
+	position: absolute;
+	overflow: visible;
+	width: 297px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(249,245,245,1);
+	text-transform: uppercase;
+}
+#Copyright__2020_Nithish_Nayak {
+	left: 771px;
+	top: 2425px;
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	height: 48px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(112,112,112,1);
+}
+*{
+	    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    overflow-x: hidden;
+}

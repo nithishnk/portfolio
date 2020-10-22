@@ -1,0 +1,857 @@
+.mediaViewInfo {
+	--web-view-name: carson;
+	--web-view-id: carson;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: carson;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#carson {
+	position: absolute;
+	width: 1920px;
+	height: 19045px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: carson;
+	--web-view-id: carson;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Path_11 {
+	opacity: 0.5;
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_11 {
+	overflow: visible;
+	position: absolute;
+	width: 1640px;
+	height: 18788.781px;
+	left: 140px;
+	top: 127px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Nithish_Nayak {
+	left: 753px;
+	top: 174px;
+	position: absolute;
+	overflow: visible;
+	width: 415px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#_Designing_is_my_passion_where {
+	left: 409px;
+	top: 283px;
+	position: absolute;
+	overflow: visible;
+	width: 1103px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(153,153,153,1);
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 500.002px;
+	height: 2px;
+	left: 254.5px;
+	top: 410.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#PROJECTS {
+	left: 841px;
+	top: 401px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#ABOUT {
+	left: 1026px;
+	top: 401px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: About.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(153,153,153,1);
+}
+#Line_3 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 88px;
+	height: 1px;
+	left: 841.5px;
+	top: 423.5px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 500.002px;
+	height: 2px;
+	left: 1166.5px;
+	top: 409.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Commerce_Platform_Portals {
+	left: 639px;
+	top: 483px;
+	position: absolute;
+	overflow: visible;
+	width: 643px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Title {
+	left: 255px;
+	top: 592px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Introuction {
+	left: 255px;
+	top: 701px;
+	position: absolute;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Carson_Inc_e-Commerce_-_Web_Ap {
+	left: 259px;
+	top: 643px;
+	position: absolute;
+	overflow: visible;
+	width: 473px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Create_a_platform_where_users_ {
+	left: 255px;
+	top: 752px;
+	position: absolute;
+	overflow: visible;
+	width: 1413px;
+	height: 143px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#ID1Produced_a_consistent_and_c {
+	left: 254px;
+	top: 1107px;
+	position: absolute;
+	overflow: visible;
+	width: 1413px;
+	height: 94px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#My_Role {
+	left: 255px;
+	top: 925px;
+	position: absolute;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#What_I_most_accomplished {
+	left: 255px;
+	top: 1056px;
+	position: absolute;
+	overflow: visible;
+	width: 357px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#I_was_responsible_for_creating {
+	left: 255px;
+	top: 970px;
+	position: absolute;
+	overflow: visible;
+	width: 1385px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#There_were_27_weeks_for_design {
+	left: 254px;
+	top: 1282px;
+	position: absolute;
+	overflow: visible;
+	width: 1413px;
+	height: 57px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Design_Process {
+	left: 252px;
+	top: 1231px;
+	position: absolute;
+	overflow: visible;
+	width: 210px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Design_process01_CP {
+	position: absolute;
+	width: 1555px;
+	height: 498px;
+	left: 183px;
+	top: 1382px;
+	overflow: visible;
+}
+#I_compared_competitors_feature {
+	left: 254px;
+	top: 3386px;
+	position: absolute;
+	overflow: visible;
+	width: 1413px;
+	height: 90px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#In_order_to_determine_our_web_ {
+	left: 288px;
+	top: 4039px;
+	position: absolute;
+	overflow: visible;
+	width: 1413px;
+	height: 112px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Based_on_the_research_I_found_ {
+	left: 288px;
+	top: 4822px;
+	position: absolute;
+	overflow: visible;
+	width: 1413px;
+	height: 112px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#After_the_product_meeting_I_sk {
+	left: 266px;
+	top: 6567px;
+	position: absolute;
+	overflow: visible;
+	width: 1413px;
+	height: 137px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Competitor_Analysis {
+	left: 259px;
+	top: 3333px;
+	position: absolute;
+	overflow: visible;
+	width: 271px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Research_the_latest_UXUI_trend {
+	left: 288px;
+	top: 3988px;
+	position: absolute;
+	overflow: visible;
+	width: 445px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Flows_and_design_mockups {
+	left: 288px;
+	top: 4964px;
+	position: absolute;
+	overflow: visible;
+	width: 367px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Sketch_ideas__Create_flows__lo_bj {
+	left: 266px;
+	top: 6516px;
+	position: absolute;
+	overflow: visible;
+	width: 609px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Design_process02_CP {
+	position: absolute;
+	width: 1471px;
+	height: 428px;
+	left: 267px;
+	top: 1952px;
+	overflow: visible;
+}
+#Research_and_Planning {
+	left: 267px;
+	top: 2410px;
+	position: absolute;
+	overflow: visible;
+	width: 313px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#CP_portfolio01_questions {
+	position: absolute;
+	width: 1498px;
+	height: 878px;
+	left: 240px;
+	top: 2455px;
+	overflow: visible;
+}
+#ID2015_UI_trends01 {
+	position: absolute;
+	width: 1109px;
+	height: 390px;
+	left: 406px;
+	top: 3537px;
+	overflow: visible;
+}
+#portals-types_1 {
+	position: absolute;
+	width: 1101px;
+	height: 645px;
+	left: 410px;
+	top: 4151px;
+	overflow: visible;
+}
+#lo-fi_example {
+	position: absolute;
+	width: 1373px;
+	height: 1433.5px;
+	left: 288px;
+	top: 5030px;
+	overflow: visible;
+}
+#CP_lo_fi_wireframes {
+	position: absolute;
+	width: 1383px;
+	height: 723px;
+	left: 266px;
+	top: 6719px;
+	overflow: visible;
+}
+#Sketch_ideas__Create_flows__lo_bj {
+	left: 266px;
+	top: 6516px;
+	position: absolute;
+	overflow: visible;
+	width: 609px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Design_Concept {
+	left: 266px;
+	top: 7472px;
+	position: absolute;
+	overflow: visible;
+	width: 217px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#The_design_goal_was_to_create_ {
+	left: 266px;
+	top: 7523px;
+	position: absolute;
+	overflow: visible;
+	width: 1413px;
+	height: 156px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#cp_design_mood_board {
+	position: absolute;
+	width: 627px;
+	height: 629px;
+	left: 266px;
+	top: 7679px;
+	overflow: visible;
+}
+#research_Trend {
+	position: absolute;
+	width: 831px;
+	height: 629px;
+	left: 916px;
+	top: 7679px;
+	overflow: visible;
+}
+#Design_Mood_Board {
+	left: 455px;
+	top: 8323px;
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	height: 39px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Research_Dashboard_Design {
+	left: 1183px;
+	top: 8323px;
+	position: absolute;
+	overflow: visible;
+	width: 356px;
+	height: 39px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Hi-Fi_wireframes__Final_design {
+	left: 266px;
+	top: 8399px;
+	position: absolute;
+	overflow: visible;
+	width: 547px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#In_the_beginning_of_this_proje {
+	left: 266px;
+	top: 8450px;
+	position: absolute;
+	overflow: visible;
+	width: 1465px;
+	height: 209px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Report_hi-fi-wireframe02 {
+	position: absolute;
+	width: 1469px;
+	height: 1430px;
+	left: 264px;
+	top: 8651px;
+	overflow: visible;
+}
+#Rectangle_12 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 1353px;
+	height: 84px;
+	left: 305px;
+	top: 9028px;
+}
+#My_Challenges {
+	left: 264px;
+	top: 10153px;
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Solutions {
+	left: 272px;
+	top: 10352px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#ID1_It_was_the_first_time_to_d {
+	left: 264px;
+	top: 10204px;
+	position: absolute;
+	overflow: visible;
+	width: 1443px;
+	height: 133px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#ID1_Use_a_familiar_chart_type_ {
+	left: 272px;
+	top: 10403px;
+	position: absolute;
+	overflow: visible;
+	width: 1416px;
+	height: 371px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#ID01_reports_mockup03 {
+	position: absolute;
+	width: 1491.62px;
+	height: 890px;
+	left: 214px;
+	top: 10816px;
+	overflow: visible;
+}
+#ID01_reports_mockup04 {
+	position: absolute;
+	width: 1491.62px;
+	height: 890px;
+	left: 214px;
+	top: 12693px;
+	overflow: visible;
+}
+#ID01_reports_mockup05 {
+	position: absolute;
+	width: 1491.62px;
+	height: 890px;
+	left: 214px;
+	top: 11739px;
+	overflow: visible;
+}
+#app_submission_wireframe {
+	position: absolute;
+	width: 1591px;
+	height: 1809px;
+	left: 165px;
+	top: 13652px;
+	overflow: visible;
+}
+#Design_Guidelines {
+	left: 239px;
+	top: 15479px;
+	position: absolute;
+	overflow: visible;
+	width: 243px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#I_collaborated_with_other_desi {
+	left: 239px;
+	top: 15530px;
+	position: absolute;
+	overflow: visible;
+	width: 1443px;
+	height: 62px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#WebPortalStyleGuide {
+	position: absolute;
+	width: 1451px;
+	height: 2708px;
+	left: 235px;
+	top: 15607px;
+	overflow: visible;
+}
+#What_I_learned_ {
+	left: 235px;
+	top: 18407px;
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Through_this_project_I_learned {
+	left: 239px;
+	top: 18458px;
+	position: absolute;
+	overflow: visible;
+	width: 1443px;
+	height: 212px;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(153,153,153,1);
+}
+#Rectangle_11 {
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 528px;
+	height: 99px;
+	left: 696px;
+	top: 18735px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#Back_To_Project {
+	left: 826px;
+	top: 18767px;
+	position: absolute;
+	overflow: visible;
+	width: 270px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(249,245,245,1);
+	text-transform: uppercase;
+}
+#Copyright__2020_Nithish_Nayak {
+	left: 771px;
+	top: 18946px;
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	height: 48px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(112,112,112,1);
+}
+*{
+	    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    overflow-x: hidden;
+}
